@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+ultralytics
+gradio
+requests
+pydub
+huggingface_hub
+PyMuPDF
+scipy
